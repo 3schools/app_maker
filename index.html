@@ -84,5 +84,10 @@
 <a href="#" ><button  class="appbtn b">ভিটামিন</button></a>
 </div></center>
 <iframe style="display:none" id="iframe" src="https://ask.3schools.in"></iframe>
+<script>
+  var domain = window.location.href;
+  var doma = domain.substring(domain.lastIndexOf("?url=")+5);
+  document.getElementById("iframe").src=doma;
+</script>
 </body>
 </html>
