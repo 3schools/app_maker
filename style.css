@@ -31,18 +31,6 @@ box-shadow:1px 5px 10px #8c8c8c;
 .appbtn:hover{
 box-shadow:1px 5px 10px #000000 inset;
 }
-.appbody{
-margin-top:5px;
-padding:1px 9px;
-}
-.appbody>h2{
-font-size:15px;
-color:#1a1aff;
-display:inline-block;
-}
-.appbody>article{
-margin:0px 1px 2px 1px;
-}
 .iframe {
       position: fixed;
       background:transparent;
@@ -53,14 +41,7 @@ margin:0px 1px 2px 1px;
       height: 100%;
      display:block!important;
   }
-.btn{
+.btna{
    float:left;
    margin-left:9px;
 }
-.a{background-color:#ccffeb;}.b{background-color:#ffffcc; }.c{background-color:#ffcce6; }.d{background-color:#ccb3ff; }.e{background-color:#ffffb3; }
-  @media (min-width:900px){
-    .appbody{
-     display:inline-block;
-    }
-    
-  }
