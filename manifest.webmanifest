@@ -1,7 +1,7 @@
 {
   "background_color": "#99d6ff",
   "theme_color": "#2c79f5",
-  "description": "Ask 3schools is about education, gk, questions and answers",
+  "description": "3schools.in is a educational website ",
   "display": "standalone",
   "icons": [
     {
@@ -10,7 +10,7 @@
       "type": "image/png"
     }
   ],
-  "name": "our app",
+  "name": "welcome our app",
   "short_name": "App",
   "start_url": "index.html"
 } 
